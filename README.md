@@ -1,8 +1,16 @@
-<h1 align="center">Imersão Dados #3</h1>
+<h1 align="center">Imersão Dados <a href="https://www.alura.com.br/imersao-dados">#3<a/></h1>
+
 
 <p align="center">
-  <img src="https://www.alura.com.br/assets/img/imersoes/imersao-dados/logo-mersao.1616501197.svg" width=200>
+  <img 
+    src="https://www.alura.com.br/assets/img/imersoes/imersao-dados/logo-mersao.1616501197.svg"
+    title="Imersão Dados"
+    alt="Imersão Dados"
+    width=200
+    height=200
+   >
 </p>
+
 
 <p align="center" width=400>
 A Imersão Dados da Alura é para quem quer acelerar os conhecimentos em Ciência de Dados, utilizando tecnologias alinhadas ao mercado e desenvolvendo projetos com dados do mundo real. É tanto para quem está na área de Dados e quer se aprimorar, quanto para quem está começando agora na carreira e quer saber mais sobre esse mercado.
@@ -22,4 +30,11 @@ __Entender__ e criar um modelo de Machine Learning
 
 __Desenvolver__ um novo projeto de Data Science com Machine Learning
 
+
 #imersaodados #alura
+
+## Links
+
+<a href="https://www.alura.com.br/imersao-dados">Imersão dados - alura.com.br/imersao-dados</a>
+
+<a href="https://www.youtube.com/watch?v=sRKYnumxhoU">Live de abertura - youtube.com/watch?v=sRKYnumxhoU</a>
